@@ -1,12 +1,12 @@
 const firebase = require("firebase");
 const firebaseConfig = {
-  apiKey: "AIzaSyACYJ5Cm2Y-i7HJes2ET2QW67zvIgLrZeo",
-  authDomain: "tutorial-e06c1.firebaseapp.com",
-  projectId: "tutorial-e06c1",
-  storageBucket: "tutorial-e06c1.appspot.com",
-  messagingSenderId: "863505404334",
-  appId: "1:863505404334:web:132118b0d6acd7dfa3f83f",
-  measurementId: "G-SW2M0FYQG5",
+  apiKey: "AIzaSyC_KKAA-qUKzqaBswiHwggtZWxjJQnhkv4",
+  authDomain: "vidu-505fc.firebaseapp.com",
+  projectId: "vidu-505fc",
+  storageBucket: "vidu-505fc.appspot.com",
+  messagingSenderId: "372985969237",
+  appId: "1:372985969237:web:61a9835e01e687a288f2dc",
+  measurementId: "G-D3QQ63LNZT"
 };
 firebase.initializeApp(firebaseConfig);
 const db = firebase.firestore();
